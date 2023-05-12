@@ -4,7 +4,7 @@ class AllFunctions
 {
     static void Main()
     {
-        InitialFunctions.DataTypes();
+        InitialFunctions.ProgramsPatterns();
     }
 }
 
@@ -43,5 +43,25 @@ class InitialFunctions
         float fraction;
         fraction = (float) i / (float) j;
         Console.WriteLine("fraction: " + fraction);
+    }
+
+    public static void ProgramsPatterns()
+    {   
+        Console.Write("How many tablets are there per bottle? ");
+        string tablets = Console.ReadLine();
+        Console.Write("What is the price per bottle? ");
+        string price = Console.ReadLine();
+        Console.Write("How many bottles are there? ");
+        string bottles = Console.ReadLine();
+
+        int tabletCount = int.Parse(tablets);
+        int pricePerBottle = int.Parse(price);
+        int bottleCount = int.Parse(bottles);
+
+        int totalTablets = bottleCount * tabletCount;
+        int salePrice = bottleCount * pricePerBottle;
+
+        Console.WriteLine("The number of tablets is " + totalTablets + ".");
+        Console.WriteLine("The total price is $" + salePrice + ".");
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\hamey.DESKTOP-MULCHGK\Desktop\csharp-yellow-book\bin\Debug\net6.0\csharp-yellow-book.exe
+C:\Users\hamey.DESKTOP-MULCHGK\Desktop\csharp-yellow-book\bin\Debug\net6.0\csharp-yellow-book.deps.json
+C:\Users\hamey.DESKTOP-MULCHGK\Desktop\csharp-yellow-book\bin\Debug\net6.0\csharp-yellow-book.runtimeconfig.json
+C:\Users\hamey.DESKTOP-MULCHGK\Desktop\csharp-yellow-book\bin\Debug\net6.0\csharp-yellow-book.dll
+C:\Users\hamey.DESKTOP-MULCHGK\Desktop\csharp-yellow-book\bin\Debug\net6.0\csharp-yellow-book.pdb
+C:\Users\hamey.DESKTOP-MULCHGK\Desktop\csharp-yellow-book\obj\Debug\net6.0\csharp-yellow-book.csproj.AssemblyReference.cache
+C:\Users\hamey.DESKTOP-MULCHGK\Desktop\csharp-yellow-book\obj\Debug\net6.0\csharp-yellow-book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamey.DESKTOP-MULCHGK\Desktop\csharp-yellow-book\obj\Debug\net6.0\csharp-yellow-book.AssemblyInfoInputs.cache
+C:\Users\hamey.DESKTOP-MULCHGK\Desktop\csharp-yellow-book\obj\Debug\net6.0\csharp-yellow-book.AssemblyInfo.cs
+C:\Users\hamey.DESKTOP-MULCHGK\Desktop\csharp-yellow-book\obj\Debug\net6.0\csharp-yellow-book.csproj.CoreCompileInputs.cache
+C:\Users\hamey.DESKTOP-MULCHGK\Desktop\csharp-yellow-book\obj\Debug\net6.0\csharp-yellow-book.dll
+C:\Users\hamey.DESKTOP-MULCHGK\Desktop\csharp-yellow-book\obj\Debug\net6.0\refint\csharp-yellow-book.dll
+C:\Users\hamey.DESKTOP-MULCHGK\Desktop\csharp-yellow-book\obj\Debug\net6.0\csharp-yellow-book.pdb
+C:\Users\hamey.DESKTOP-MULCHGK\Desktop\csharp-yellow-book\obj\Debug\net6.0\csharp-yellow-book.genruntimeconfig.cache
+C:\Users\hamey.DESKTOP-MULCHGK\Desktop\csharp-yellow-book\obj\Debug\net6.0\ref\csharp-yellow-book.dll

@@ -6,6 +6,7 @@
     <RootNamespace>csharp_yellow_book</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Assignment</StartupObject>
   </PropertyGroup>
 
 </Project>

@@ -4,7 +4,7 @@ class AllFunctions
 {
     static void Main()
     {
-        InitialFunctions.GlazerCalculator();
+        InitialFunctions.FirstLoop();
     }
 }
 
@@ -113,5 +113,15 @@ class InitialFunctions
 
         Console.WriteLine("The length of the wood is " + woodLength + " feet.");
         Console.WriteLine("The area of the glass is " + glassArea + " square metres.");
+    }
+
+    public static void FirstLoop()
+    {
+        int i = 1;
+        while (i < 11)
+        {
+            Console.WriteLine("The current number is " + i);
+            i += 1;
+        }
     }
 }

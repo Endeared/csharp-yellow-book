@@ -96,16 +96,16 @@ class InitialFunctions
         heightString = Console.ReadLine();
         height = double.Parse(heightString);
 
-        if (width < MIN_HEIGHT) {
+        if (height < MIN_HEIGHT) {
             Console.WriteLine("Height is too small.\n\n");
             Console.WriteLine("Using minimum... (" + MIN_HEIGHT + ")");
-            width = MIN_HEIGHT;
+            height = MIN_HEIGHT;
         }
 
-        if (width > MAX_HEIGHT) {
+        if (height > MAX_HEIGHT) {
             Console.WriteLine("Height is too large.\n\n");
-            Console.WriteLine("Using maximum...(" + MAX_HEIGHT + ")");
-            width = MAX_HEIGHT;
+            Console.WriteLine("Using maximum... (" + MAX_HEIGHT + ")");
+            height = MAX_HEIGHT;
         }
 
         woodLength = 2 * (width + height) * 3.25;
